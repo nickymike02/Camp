@@ -44,7 +44,7 @@ img {
 
 .menu-bar nav a {
 	clolor:white;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .menu-bar nav a:hover {
