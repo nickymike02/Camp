@@ -31,3 +31,32 @@ img {
 	padding-left: 1%;
 	padding-right: 1%;
 }
+
+.menu-bar {
+	background-color: black;
+	color: white;
+	padding: 7px;
+}
+
+.menu-bar nav {
+	max-width: 800px;
+}
+
+.menu-bar nav a {
+	clolor:white;
+	text-decoration: underline;
+}
+
+.menu-bar nav a:hover {
+	text decoration: underline;
+}
+
+.menu-bar nav ul {
+	list-style-type: none
+}
+
+.menu-bar nav ul  li {
+	display: inline;
+	padding-left: 5%;
+	padding-right: 5%;
+}
